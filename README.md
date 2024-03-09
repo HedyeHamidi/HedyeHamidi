@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HedyeHamidi. Call me Hedi!
 - 👀 I’m interested in discovering new things.
 - 🌱 I’m currently learning Flutter.
-- 📫 How to reach me ? On instagram @hedihmd
+
   
 
 <!---
